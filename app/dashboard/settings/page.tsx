@@ -21,7 +21,7 @@ export default function SettingsPage() {
           <CardContent>
             <div className="space-y-2">
               <div className="space-y-2">
-                <Label>Ваше ім'я</Label>
+                <Label>Ваше ім&aposя</Label>
                 <Input name="name" type="text" id="name" placeholder="Ваше ім'я" />
               </div>
               <div className="space-y-2">
